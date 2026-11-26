@@ -1,5 +1,1 @@
-# hello world
-# hello world
-# hello world
-# hello world
-# hello world
+# โปรเจกต์นี้ใช้สําหรับฝึกเขียน HTML และ Git
